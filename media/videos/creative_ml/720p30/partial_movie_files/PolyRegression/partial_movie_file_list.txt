@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/takebohan/creative_ml/media/videos/creative_ml/720p30/partial_movie_files/PolyRegression/uncached_00000.mp4'
+file 'file:/Users/takebohan/creative_ml/media/videos/creative_ml/720p30/partial_movie_files/PolyRegression/uncached_00001.mp4'
+file 'file:/Users/takebohan/creative_ml/media/videos/creative_ml/720p30/partial_movie_files/PolyRegression/uncached_00002.mp4'
+file 'file:/Users/takebohan/creative_ml/media/videos/creative_ml/720p30/partial_movie_files/PolyRegression/uncached_00003.mp4'
+file 'file:/Users/takebohan/creative_ml/media/videos/creative_ml/720p30/partial_movie_files/PolyRegression/uncached_00004.mp4'
+file 'file:/Users/takebohan/creative_ml/media/videos/creative_ml/720p30/partial_movie_files/PolyRegression/uncached_00005.mp4'
+file 'file:/Users/takebohan/creative_ml/media/videos/creative_ml/720p30/partial_movie_files/PolyRegression/uncached_00006.mp4'
+file 'file:/Users/takebohan/creative_ml/media/videos/creative_ml/720p30/partial_movie_files/PolyRegression/uncached_00007.mp4'
+file 'file:/Users/takebohan/creative_ml/media/videos/creative_ml/720p30/partial_movie_files/PolyRegression/uncached_00008.mp4'
+file 'file:/Users/takebohan/creative_ml/media/videos/creative_ml/720p30/partial_movie_files/PolyRegression/uncached_00009.mp4'
